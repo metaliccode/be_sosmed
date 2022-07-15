@@ -1,6 +1,6 @@
-# Laravel 8 Blog Api
+# Laravel REST Sosmed
 
-A laravel 8 rest api project for blog application.
+Backend untuk flutter sosmed 
 
 ## Get Started
 
